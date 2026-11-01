@@ -1,0 +1,1 @@
+As NoteGPT.io outputted only one channel of audio, I had to separate the vocals from the instruments using Demucs. https://huggingface.co/spaces/abidlabs/music-separation
